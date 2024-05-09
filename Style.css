@@ -68,3 +68,8 @@ button:active{
 .opt-btn:active{
     background-color: hsl(35, 100%, 75%);
 }
+
+.dark{
+    background-color: #222;
+    color: #e6e6e6;
+}

@@ -18,3 +18,8 @@ function Cal(){
         display.value = "Error";
     }
 }
+
+function Dark(){
+    let bc = document.body
+    bc.classList.toggle("dark");
+}
